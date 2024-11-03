@@ -164,6 +164,7 @@ jieba.cut_for_search(content)
         - 其他 (x): 无法归类的词，如 "呵呵"、"哈"。
     </p>
     </p>
+</detials>
 
 - 词典样式如下
 
